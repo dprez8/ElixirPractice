@@ -1,0 +1,4 @@
+%{
+  "recon": {:hex, :recon, "2.3.6", "2bcad0cf621fb277cabbb6413159cd3aa30265c2dee42c968697988b30108604", [:rebar3], [], "hexpm", "f55198650a8ec01d3efc04797abe550c7d023e7ff8b509f373cf933032049bd8"},
+  "recon_ex": {:hex, :recon_ex, "0.9.1", "51558b6eb347753dcf9c884ba68d49dbbec607fc4296815b72a0c8995d5d3203", [:mix], [{:recon, "~> 2.3.1", [hex: :recon, repo: "hexpm", optional: false]}], "hexpm", "ca124759162c082adbb29078eadb9ab102425493c94387221d1e11acd0e050f7"},
+}
